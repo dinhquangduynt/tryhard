@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ex07 {
 
 	public static void main(String[] args) {
-
+		//duy test git commit 
 		String inputString = input();
 		caculateTheLengthOfSubstring(inputString);
 	}
